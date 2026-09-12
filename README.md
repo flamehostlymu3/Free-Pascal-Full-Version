@@ -238,4 +238,4 @@ This repository serves as the official landing page for Free Pascal. The softwar
 **Get the most recent version of Free Pascal today!**
 
 ---
-**Last updated:** 2026-09-12 05:35:17 UTC
+**Last updated:** 2026-09-12 10:06:38 UTC
